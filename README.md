@@ -1,6 +1,4 @@
-Railway Reservation System (SQL Backend)
-
-A robust and scalable Relational Database Management System (RDBMS) designed to handle the complexities of railway operations, including scheduling, station routing, and passenger bookings.
+Railway Reservation System  : A robust and scalable Relational Database Management System (RDBMS) designed to handle the complexities of railway operations, including scheduling, station routing, and passenger bookings.
 
 Project Overview :
 
